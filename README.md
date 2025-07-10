@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/sofialotti/sofialotti/blob/output/github-contribution-grid-snake.svg" alt="Snake game con i miei contributi">
+  <img src="https://github.com/sofialottii/sofialottii/blob/output/github-contribution-grid-snake.svg" alt="Snake game con i miei contributi">
 </p>
 
 
