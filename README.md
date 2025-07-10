@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=TUO-USERNAME-QUI&theme=dracula&column=7" alt="I miei trofei GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sofialottii&theme=dracula&column=7" alt="I miei trofei GitHub" />
 </p>
 
 
