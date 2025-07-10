@@ -4,15 +4,6 @@
   👨‍💻 Computer Science and Engineering Student at the University of Bologna (UniBo), Italy.
 </p>
 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=sofialottii&theme=dracula&column=7" alt="I miei trofei GitHub" />
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/sofialottii/sofialottii/blob/output/github-contribution-grid-snake.svg" alt="Snake game con i miei contributi">
-</p>
-
 
 ### 💻 Languages & Framework
 
