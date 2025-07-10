@@ -68,10 +68,10 @@
 <h3 align="left">📊 Le mie Statistiche GitHub</h3>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TUO-USERNAME-QUI&show_icons=true&locale=it&theme=dracula" alt="Le mie statistiche GitHub" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sofialottii&show_icons=true&locale=it&theme=dracula" alt="Le mie statistiche GitHub" />
   </a>
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUO-USERNAME-QUI&layout=compact&locale=it&theme=dracula" alt="I miei linguaggi più usati" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofialottii&layout=compact&locale=it&theme=dracula" alt="I miei linguaggi più usati" />
   </a>
 </p>
