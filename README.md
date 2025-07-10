@@ -62,3 +62,16 @@
     <img src="https://www.vectorlogo.zone/logos/opengl/opengl-icon.svg" alt="opengl" width="40" height="40"/>
   </a>
 </p>
+
+
+
+<h3 align="left">📊 Le mie Statistiche GitHub</h3>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TUO-USERNAME-QUI&show_icons=true&locale=it&theme=dracula" alt="Le mie statistiche GitHub" />
+  </a>
+  <br><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUO-USERNAME-QUI&layout=compact&locale=it&theme=dracula" alt="I miei linguaggi più usati" />
+  </a>
+</p>
