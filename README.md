@@ -4,9 +4,10 @@
   👨‍💻 Computer Science and Engineering Student at the University of Bologna (UniBo), Italy.
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=TUO-USERNAME-QUI&label=Profile%20views&color=0e75b6&style=flat" alt="conteggio visite profilo" /> 
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=TUO-USERNAME-QUI&theme=dracula&column=7" alt="I miei trofei GitHub" />
 </p>
+
 
 
 ### 💻 Languages & Framework
