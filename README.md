@@ -65,7 +65,7 @@
 
 
 
-<h3 align="left">📊 GitHub Statistics</h3>
+<h3 align="left"> 📊 Stats</h3>
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofialottii&layout=compact&locale=en&theme=dracula" alt="Most used Languages" />
