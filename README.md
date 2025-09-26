@@ -66,7 +66,10 @@
 
 
 <h3 align="left"> 📊 My Stats</h3>
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sofialottii)](https://github.com/sofialottii/github-readme-stats)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sofialottii&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sofialottii)](https://github.com/sofialottii)
 
