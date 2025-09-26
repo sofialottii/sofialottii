@@ -68,12 +68,7 @@
 <h3 align="left"> 📊 My Stats</h3>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sofialottii&show_icons=true&theme=tokyonight&hide_border=true)
-
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sofialottii)](https://github.com/sofialottii)
-
-
 
 
 <p align="left">
