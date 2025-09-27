@@ -69,10 +69,3 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sofialottii)](https://github.com/sofialottii)
-
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofialottii&layout=compact&locale=en&theme=dracula" alt="Most used Languages" />
-  </a>
-</p>
