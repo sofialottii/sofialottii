@@ -62,10 +62,3 @@
     <img src="https://www.vectorlogo.zone/logos/opengl/opengl-icon.svg" alt="opengl" width="40" height="40"/>
   </a>
 </p>
-
-
-
-<h3 align="left"> 📊 My Stats</h3>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sofialottii)](https://github.com/sofialottii)
