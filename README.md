@@ -1,5 +1,9 @@
 ## Sofia Lotti
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Sofia;I'm+a+Software+Developer;Welcome+to+my+Github+Profile!" alt="Typing SVG" />
+</p>
+
 <p align="left">
   👨‍💻 Computer Science and Engineering Student at the University of Bologna (UniBo), Italy.
 </p>
@@ -61,4 +65,10 @@
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opengl/opengl-icon.svg" alt="opengl" width="40" height="40"/>
   </a>
+</p>
+
+### 📊 Stats
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sofialottii&theme=dracula&hide_border=true" width="80%" />
 </p>
