@@ -62,3 +62,12 @@
     <img src="https://www.vectorlogo.zone/logos/opengl/opengl-icon.svg" alt="opengl" width="40" height="40"/>
   </a>
 </p>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofialottii&layout=compact&theme=dracula)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sofialottii&show_icons=true&theme=dracula" height="180" alt="sofialottii's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofialottii&layout=compact&theme=dracula" height="180" alt="sofialottii's Top Langs" />
+</p>
