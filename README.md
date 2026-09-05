@@ -41,8 +41,3 @@
   </tr>
 </table>
 
-### 📊 Stats
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sofialottii&theme=dracula&hide_border=true" width="80%" />
-</p>
